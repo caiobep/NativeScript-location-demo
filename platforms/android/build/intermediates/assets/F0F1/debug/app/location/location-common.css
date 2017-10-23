@@ -1,0 +1,11 @@
+StackLayout {
+    margin-left: 30;
+    margin-right: 30;
+}
+
+.page-title {
+    padding:10;
+    font-size: 20;
+    text-align: left;
+    color: #333;
+}

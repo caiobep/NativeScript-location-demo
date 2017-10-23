@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Location = (function () {
+    function Location() {
+    }
+    return Location;
+}());
+exports.Location = Location;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibG9jYXRpb24uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJsb2NhdGlvbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBO0lBQUE7SUFTQSxDQUFDO0lBQUQsZUFBQztBQUFELENBQUMsQUFURCxJQVNDO0FBVFksNEJBQVEiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY2xhc3MgTG9jYXRpb24ge1xuICAgIGxhdGl0dWRlOiBudW1iZXJcbiAgICBsb25naXR1ZGU6IG51bWJlclxuICAgIGFsdGl0dWRlOiBudW1iZXJcbiAgICBob3Jpem9udGFsQWNjdXJhY3k6IG51bWJlclxuICAgIHZlcnRpY2FsQWNjdXJhY3k6IG51bWJlclxuICAgIHNwZWVkOiBudW1iZXJcbiAgICBkaXJlY3Rpb246IG51bWJlclxuICAgIHRpbWVzdGFtcDpzdHJpbmdcbn1cbiJdfQ==
