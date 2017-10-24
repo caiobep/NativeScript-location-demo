@@ -1,0 +1,26 @@
+StackLayout {
+    margin-left: 30;
+    margin-right: 30;
+}
+
+.page-title {
+    padding:10;
+    font-size: 20;
+    text-align: left;
+    color: #333;
+}
+
+.location-history {
+    border-color: #333;
+    height: 300;
+    border-width: 1;
+    margin: 30 10;
+}
+
+.list-label {
+
+}
+
+.list-description {
+    font-weight: bold;
+}

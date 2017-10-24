@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.3.1_22decc0fe22b9ef1f57d240f7b509ea49711e70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-tasks-11.4.0_6329b7512b9d39b78deb2a44ac35ffe3ef2e577c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-location-11.4.0_e904af4ed38d89fbbe7b22d63fee4976884bd0c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.3.1_2305135dd7998be4127556231f20eee8760bafda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.3.1_6863edb9ac2154d71e1edbe8d0d90a08b2440fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/tmsnspoc/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/tmsnspoc-runtime-unspecified_8b93d287a114681611ca02e9e63069ece663335c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.3.1_593ad11f898f8f91296e46f35b19cfc3c8cd5b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-base-11.4.0_ee00c5706d6277f150491d716e6194ad9bcde5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.3.1_921590de78d14987c061143ff7ce3c91f27984f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.3.1_aac7d372b3f1e57c7014b34dade352b2205c26b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.3.1_c9a74340f53350aa09ff1290e73e84762edc971a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.3.1_a9966e1573ce337f662b3b9b44ca381b1ff2adf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.3.1_61593d4e2a06944c4cbe2af3817f18ceeede6d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-basement-11.4.0_03f57eedce3df902852a54fbd19e08b0bd7a5b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_95159c8d3f1d95c74b539f600813e916c159b11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/tmsnspoc/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_26511e75b2191b0191c45b5149ea7c0586688862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.3.1_284271580f9602ecc82fbb0d53a6ec48fe4b5883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.3.1_9bc0f715cb5e63482caa08cb874bab76255b0ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.3.1_e3fdf079dc1102171d5d938cf3d304dda01a7925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.3.1_8bf8babaab9c45edf50933d37af97ee8a2a92c7d.jar" />
+    </item>
+
+</items>

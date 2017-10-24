@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi/icon.png",
+        "source": "/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi/background.png",
+        "source": "/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi/logo.png",
+        "source": "/Users/caiobep/Developer/ResourceIt/tms-ns-poc/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    }
+]
