@@ -1,3 +1,4 @@
+import { NativeScriptHttpModule } from 'nativescript-angular';
 import { LocationComponent } from './location/location.component';
 import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
@@ -20,6 +21,7 @@ import { ItemDetailComponent } from "./item/item-detail.component";
     ],
     imports: [
         NativeScriptModule,
+        NativeScriptHttpModule,
         AppRoutingModule
     ],
     declarations: [

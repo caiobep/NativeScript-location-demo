@@ -3,5 +3,6 @@
         "**/.git": true,
         "**/*.js": {"when": "$(basename).ts"},
         "./platforms": true
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
