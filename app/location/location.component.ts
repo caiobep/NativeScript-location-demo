@@ -10,6 +10,7 @@ import {
 
 import { LocationService } from '../shared/location/location.service'
 import { Location } from '../shared/location/location'
+import * as platformModule from "tns-core-modules/platform";
 
 @Component({
     selector: 'location-hub',
@@ -51,6 +52,12 @@ export class LocationComponent {
                 } = location
                 
                 const currentLocation = new Location(location)
+                currentLocation.deviceModel = platformModule.device.model;
+                currentLocation.deviceType = platformModule.device.deviceType;
+                currentLocation.os = platformModule.device.os;
+                currentLocation.osVersion = platformModule.device.osVersion;
+                currentLocation.sdkVersion = platformModule.device.sdkVersion;
+
                 this.locationService.sendLocation(currentLocation)
                     .subscribe(
                         (success) => this.locationHistory.unshift(location) ,

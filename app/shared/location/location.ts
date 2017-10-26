@@ -29,4 +29,9 @@ export class Location {
     public speed: number
     public direction: number
     public timestamp:string
+    public deviceModel:string
+    public deviceType:string
+    public os:string
+    public osVersion:string
+    public sdkVersion:string
 }
